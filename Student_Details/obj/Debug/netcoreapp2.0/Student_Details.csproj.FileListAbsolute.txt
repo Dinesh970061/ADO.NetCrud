@@ -1,0 +1,11 @@
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\obj\Debug\netcoreapp2.0\Student_Details.csprojAssemblyReference.cache
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\obj\Debug\netcoreapp2.0\Student_Details.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\obj\Debug\netcoreapp2.0\Student_Details.AssemblyInfoInputs.cache
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\obj\Debug\netcoreapp2.0\Student_Details.AssemblyInfo.cs
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\bin\Debug\netcoreapp2.0\Student_Details.deps.json
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\bin\Debug\netcoreapp2.0\Student_Details.runtimeconfig.json
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\bin\Debug\netcoreapp2.0\Student_Details.runtimeconfig.dev.json
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\bin\Debug\netcoreapp2.0\Student_Details.dll
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\bin\Debug\netcoreapp2.0\Student_Details.pdb
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\obj\Debug\netcoreapp2.0\Student_Details.dll
+C:\Users\Dinesh.Nallagachu\source\repos\Student_Details\Student_Details\obj\Debug\netcoreapp2.0\Student_Details.pdb
